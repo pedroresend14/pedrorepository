@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my personality page
 
-You can use the [editor on GitHub](https://github.com/pedroresend14/pedrorepository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So, Welcome again!
+Here, you are going to know me a litte. 
+So, my name is Pedro Resende, I'm 16 years old, I was born in Belo Horizonte in Minas Gerais.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### What Do I like most?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
